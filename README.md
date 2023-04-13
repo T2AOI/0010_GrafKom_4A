@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410010** |
+| Nama Lengkap | **Moch. Tantowi Rahmadijaya** |
 | Kelas | TI-4A |
